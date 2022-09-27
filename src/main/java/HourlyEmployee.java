@@ -1,2 +1,2 @@
-public class HourlyEmployee {
+public abstract class HourlyEmployee extends Employee {
 }
